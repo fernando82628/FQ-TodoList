@@ -1,0 +1,21 @@
+{
+  "name": "fq-todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando82628/FQ-TodoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernando82628/FQ-TodoList/issues"
+  },
+  "devDependencies": {"lite-server": "^2.6.1"},
+  "homepage": "https://github.com/fernando82628/FQ-TodoList#readme"
+}
